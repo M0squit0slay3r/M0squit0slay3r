@@ -22,10 +22,6 @@
 
 ---
 
-## 📌 Featured Projects
-
----
-
 ## 📬 Let's Connect!
 - 💼 [LinkedIn](https://www.linkedin.com/in/yourprofile)
 - ✉️ Email: sahin.327neslihan@gmail.com
