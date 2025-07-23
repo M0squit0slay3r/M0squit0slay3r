@@ -11,7 +11,7 @@
 - HTML, CSS, JavaScript(ongoing)
 - Java (Object-Oriented Programming)
 - MySQL (Basics)
-- Figma for UI/UX
+- Figma , Canva for UI/UX
 - Python 
 
 ---
